@@ -11,7 +11,7 @@ This project is a BookStore WebAPI developed as Homework 1 for the Eczacibasi Bi
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-repo/bookstore-webapi.git
+git clone https://github.com/ilayda-oss/bookstore-webapi.git
 ```
 
 2. Navigate to the project directory:
